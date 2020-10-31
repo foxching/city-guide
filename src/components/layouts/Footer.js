@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 import styled from "styled-components";
 
@@ -22,16 +23,16 @@ export default function Footer() {
               <h4>Lorem ipsum</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
               </ul>
             </div>
@@ -40,16 +41,16 @@ export default function Footer() {
               <h4>Lorem ipsum</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
               </ul>
             </div>
@@ -58,16 +59,16 @@ export default function Footer() {
               <h4>Lorem ipsum</h4>
               <ul className="list-unstyled">
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
                 <li>
-                  <a href="#">Lorem impsuim ashasas,as</a>
+                  <Link to="/">Lorem impsuim ashasas,as</Link>
                 </li>
               </ul>
             </div>
